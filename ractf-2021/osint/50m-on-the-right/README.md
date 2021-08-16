@@ -3,7 +3,7 @@
 By [Siorde](https://github.com/Siorde)
 
 ## Description
-![image to find](https://github.com/Nameshield-CTF/WriteUps/tree/master/ractf-2021/osint/50m-on-the-right/ressources/50m_on_the_right.jpg?raw=true)
+![Image to find](https://github.com/Nameshield-CTF/WriteUps/tree/master/ractf-2021/osint/50m-on-the-right/ressources/50m_on_the_right.jpg?raw=true)
 
 ## Solution
 Their was a sign in the middle of the picture, I used the text to determine were the picture is. It was in portugal.
