@@ -3,7 +3,7 @@
 By [Siorde](https://github.com/Siorde)
 
 ## Description
-![alt image ot find](https://github.com/Nameshield-CTF/WriteUps/tree/master/ractf-2021/osint/john-poet/ressources/john_poet.jpg?raw=true)
+![Image to find](https://github.com/Nameshield-CTF/WriteUps/tree/master/ractf-2021/osint/john-poet/ressources/john_poet.jpg?raw=true)
 
 ## Solution
 The difficulty here is that the text are blured. At first, I looked for the "Nova" sign because I thought it was the store Fashio Nova. But it seemed that it was not the right logo.
