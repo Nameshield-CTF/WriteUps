@@ -3,7 +3,7 @@
 By [Siorde](https://github.com/Siorde)
 
 ## Description
-![alt image ot find](https://github.com/Nameshield-CTF/WriteUps/tree/master/ractf-2021/osint/triangles/ressources/triangles.jpg?raw=true)
+![Image to find](https://github.com/Nameshield-CTF/WriteUps/tree/master/ractf-2021/osint/triangles/ressources/triangles.jpg?raw=true)
 
 ## Solution
 We need to find the location of the image. First thing I tried was to do reverse image search on google. I found this website : http://notizie.comuni-italiani.it/foto/61298.
