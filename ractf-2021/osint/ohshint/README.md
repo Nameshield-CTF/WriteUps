@@ -9,7 +9,7 @@ We've got an OSINT challenge for you. We've been tracking a suspect and found th
 
 Can you take a look and find out the rough location where this image was taken?
 
-![alt image ot find](https://github.com/Nameshield-CTF/WriteUps/tree/master/ractf-2021/osint/ohshint/ressources/image.jpg?raw=true)
+![Image to find](https://github.com/Nameshield-CTF/WriteUps/tree/master/ractf-2021/osint/ohshint/ressources/image.jpg?raw=true)
 
 ## Solution
 We have a picture of a lake. It really doesn't help because a reverse search for the image just show a lot of different lake, and it's very hard to define if their is a match.
